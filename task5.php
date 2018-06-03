@@ -8,8 +8,8 @@ $bmw["doors"] = "5";
 $bmw["year"] = "2015";
 
 
-$toyota = array("name" => "toyota", "mode" => "25", "speed" => "120", "doors" => 5, "year" => "1980");
-$opel = array("name" => "opel", "mode" => "25", "speed" => "45", "doors" => 1, "year" => "1900");
+$toyota = ["name" => "toyota", "mode" => "25", "speed" => "120", "doors" => 5, "year" => "1980"];
+$opel = ["name" => "opel", "mode" => "25", "speed" => "45", "doors" => 1, "year" => "1900"];
 print_r($bmw);
 echo "<br>";
 print_r($toyota);
